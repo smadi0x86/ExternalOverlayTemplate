@@ -81,12 +81,12 @@ for (const auto& entity : entities) {
 }
 ```
 
-If you wanna check real-world full example, check out https://github.com/TKazer/CS2_External/tree/master/CS2_External
+If you wanna check a real-world full example, check out https://github.com/TKazer/CS2_External/tree/master/CS2_External
 
 ## References
 
 - [ImGui](https://github.com/ocornut/imgui)
-- [MSDN](https://docs.microsoft.com/en-us/cpp/standard-library/)]
+- [MSDN](https://docs.microsoft.com/en-us/cpp/standard-library/)
 
 ## LICENSE
 
