@@ -27,7 +27,7 @@ ImGui::GetBackgroundDrawList()->AddCircleFilled({ 1000, 300 }, 10.0f, ImColor(1.
 * - Get the data you need
 * - Render the data
 *
-* For a usermode cheat you would:
+* For a user-space cheat you would:
 * - Run your cheat
 * - Get the data you need
 * - Render the data
